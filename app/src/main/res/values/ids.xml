@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="save" type="id" />
+    <item name="note_title" type="id" />
+    <item name="note_body" type="id" />
+    <item name="save_note" type="id" />
+    <item name="created_at" type="id" />
+</resources>
